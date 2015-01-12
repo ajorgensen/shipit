@@ -1,0 +1,7 @@
+# Site settings
+title: '#ShipIt'
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://shipit.rocks" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
