@@ -117,5 +117,6 @@ root.images = [
   { canonical_url: 'http://media.tumblr.com/966a4ce4a563c738f05e687b2b492efb/tumblr_n0jc5zTZc11rn95k2o1_500.gif' },
   { canonical_url: 'http://i.giphy.com/6IAmwRPF0lMME.giff' },
   { canonical_url: 'http://media.giphy.com/media/LVNl92B8wj7pK/giphy.gif' },
-  { canonical_url: 'http://i.imgur.com/8pJN5mj.gif' }
+  { canonical_url: 'http://i.imgur.com/8pJN5mj.gif' },
+  { canonical_url: 'http://media.giphy.com/media/F5nTQNiWkcIfe/giphy.gif' }
 ]
