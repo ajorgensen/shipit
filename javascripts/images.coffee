@@ -119,5 +119,6 @@ root.images = [
   { canonical_url: 'http://media.giphy.com/media/LVNl92B8wj7pK/giphy.gif' },
   { canonical_url: 'http://i.imgur.com/8pJN5mj.gif' },
   { canonical_url: 'http://media.giphy.com/media/F5nTQNiWkcIfe/giphy.gif' },
-  { canonical_url: "http://stream1.gifsoup.com/view/171073/i-m-on-a-boat-o.gif" }
+  { canonical_url: "http://stream1.gifsoup.com/view/171073/i-m-on-a-boat-o.gif" },
+  { canonical_url: "http://mashable.com/wp-content/uploads/2013/07/excited-baby.gif" }
 ]
