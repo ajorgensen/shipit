@@ -109,5 +109,9 @@ root.images = [
   { canonical_url: "http://i.imgur.com/zxc5KEE.gif" },
   { canonical_url: "http://i.imgur.com/U9SB1hw.gif" },
   { canonical_url: "http://i.imgur.com/IvNYXYL.gif" },
-  { canonical_url: "http://i.imgur.com/iOPHGTf.gif" }
+  { canonical_url: "http://i.imgur.com/iOPHGTf.gif" },
+  { canonical_url: "http://i.imgur.com/StPCpLc.gif" },
+  { canonical_url: "http://i.imgur.com/Ivyj5J8.gif" },
+  { canonical_url: "http://i.imgur.com/maICXLi.gif" },
+  { canonical_url: "http://i.imgur.com/sX57W7e.gif" },
 ]
